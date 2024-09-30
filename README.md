@@ -2,7 +2,7 @@
 - 👀 I’m interested in Optimal tax models
 - 🌱 I’m currently learning build tax models in Python
 - 💞️ I’m looking to collaborate on Papers related to optimal income taxation
-- 📫 How to reach me a.bubb@uq.edu.au
+- 📫 How to reach me alicia.bubb@rmit.edu.au
 
 <!---
 abubb/abubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
